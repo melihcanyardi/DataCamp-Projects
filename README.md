@@ -1,4 +1,4 @@
-# DataCamp-Projects
+# DataCamp Projects
 This repository includes the DataCamp projects I have completed that are part of the "**Data Scientist with Python**" Career Track.
 
 Currently I have completed **18 courses** out of **23** and **5 projects** out of **6** in this career track. I will update this repository as I make progress.
